@@ -1,0 +1,22 @@
+D:\ASP.NET Core\MobileStore\bin\Debug\netcoreapp2.0\MobileStore.deps.json
+D:\ASP.NET Core\MobileStore\bin\Debug\netcoreapp2.0\MobileStore.runtimeconfig.json
+D:\ASP.NET Core\MobileStore\bin\Debug\netcoreapp2.0\MobileStore.runtimeconfig.dev.json
+D:\ASP.NET Core\MobileStore\bin\Debug\netcoreapp2.0\MobileStore.dll
+D:\ASP.NET Core\MobileStore\bin\Debug\netcoreapp2.0\MobileStore.pdb
+D:\ASP.NET Core\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.csprojAssemblyReference.cache
+D:\ASP.NET Core\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.AssemblyInfoInputs.cache
+D:\ASP.NET Core\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.AssemblyInfo.cs
+D:\ASP.NET Core\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.dll
+D:\ASP.NET Core\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.pdb
+d:\github\ASP.NET-Core\MobileStore\bin\Debug\netcoreapp2.0\MobileStore.deps.json
+d:\github\ASP.NET-Core\MobileStore\bin\Debug\netcoreapp2.0\MobileStore.runtimeconfig.json
+d:\github\ASP.NET-Core\MobileStore\bin\Debug\netcoreapp2.0\MobileStore.runtimeconfig.dev.json
+d:\github\ASP.NET-Core\MobileStore\bin\Debug\netcoreapp2.0\MobileStore.dll
+d:\github\ASP.NET-Core\MobileStore\bin\Debug\netcoreapp2.0\MobileStore.pdb
+d:\github\ASP.NET-Core\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.csprojAssemblyReference.cache
+d:\github\ASP.NET-Core\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.csproj.CoreCompileInputs.cache
+d:\github\ASP.NET-Core\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.AssemblyInfoInputs.cache
+d:\github\ASP.NET-Core\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.AssemblyInfo.cs
+d:\github\ASP.NET-Core\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.dll
+d:\github\ASP.NET-Core\MobileStore\obj\Debug\netcoreapp2.0\MobileStore.pdb
